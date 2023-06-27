@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GmailTask</string>
+
+    <string name="google">Google</string>
+    <string name="sign_in">Sign in</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_with_google">with your Google Account.</string>
+    <string name="learn_more">Learn more</string>
+    <string name="forgot_email">Forgot Email?</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="create_account">Create account</string>
+    <string name="btn_next">Next</string>
+    <string name="not_find_acc">Could not find your Google Account</string>
+    <string name="enter_pass">Enter a password</string>
+    <string name="email_or_phone">Email or phone</string>
+    <string name="search">Search in emails</string>
+    <string name="pass">Password</string>
+    <string name="gmail">Gmail</string>
+</resources>
